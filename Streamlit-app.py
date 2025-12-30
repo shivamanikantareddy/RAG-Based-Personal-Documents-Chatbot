@@ -4,7 +4,7 @@ from typing import List
 import time
 
 # Configuration
-API_BASE_URL = "http://localhost:8000"  # Change this to your backend URL
+# API_BASE_URL = "http://localhost:8000"  # Change this to your backend URL
 
 # Page configuration
 st.set_page_config(
