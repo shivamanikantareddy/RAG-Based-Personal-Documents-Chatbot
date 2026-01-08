@@ -7,7 +7,7 @@ Built using:
 
 * FastAPI (backend)
 * LangChain
-* FAISS
+* Pinecone
 * HuggingFace / OpenAI LLM
 * Streamlit (UI)
 
@@ -39,3 +39,4 @@ streamlit run app.py
 * RAG-based architecture
 * Reduced hallucinations
 * Local vector search
+
